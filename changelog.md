@@ -1,3 +1,9 @@
+Version 0.7.8
+-------------
+
+- Fix issue parsing the RSSI data from Lighting2 devices contributed by
+  @maxwellhadley
+
 Version 0.7.7
 -------------
 
